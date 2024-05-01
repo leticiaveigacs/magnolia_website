@@ -1,19 +1,23 @@
 
 # Projeto Floricultura Magnólia 🌸
 
-O projeto foi desenvolvido como requisito final do modulo de Projeto de Programação, curso de Programaçao Web. A premissa era idealizar um estudo de caso. A Floricultura Magnolia foi idealizada para este fim. 
 O projeto teve como objetivo central o desenvolvimento de um website comercial, visando oferecer aos clientes uma experiência online completa e intuitiva para a compra de flores e atividades correlatas.
+Dentro da implementação técnica, foram empregadas linguagens como de marcação (HTML), de estilização (CSS). Com o intuito de criar uma interface amigável e responsiva.
+
+
+
+### Video 💻
+
+Você pode ver uma demosnstração do jogo:
+
+- [Video](https://github.com/leticiaveigacs/magnolia_website/issues/1#issue-2273958092)
 
 
 ## Diagrama UML 📊
 
-Foi implementado o diagrama UML (Unified Modeling Language) para representar o estudo de caso do website. O que demonstrou ser essencial, pois a ferramenta possibilitou o mapeamento de modo estruturado e pormenorizado do sistema. Além de destacar os atores envolvidos, os clientes e a própria floricultura, ao definir as funcionalidades indispensáveis, como solicitação de eventos, pedidos de flores e pagamentos. E, consolidar entre esses elementos os relacionamentos.
+Foi implementado o diagrama UML para representar o estudo de caso do website. O que demonstrou ser essencial, pois a ferramenta possibilitou o mapeamento de modo estruturado e pormenorizado do sistema. Além de destacar os atores envolvidos, os clientes e a própria floricultura, ao definir as funcionalidades indispensáveis, como solicitação de eventos, pedidos de flores e pagamentos. E, consolidar entre esses elementos os relacionamentos.
 
-## Implementação Técnica 💻
-
-Dentro da implementação técnica, foram empregadas linguagens como de marcação (HTML), de estilização (CSS). Com o intuito de criar uma interface amigável e responsiva.
-
-## Estrutura🌟
+## Estrutura 💻
 
 A página principal do website, mostra uma lista de flores com fotos e descrições detalhadas. Disponibiliza, acerca dos serviços providos pela floricultura, informações relevantes. 
 Possui três sub-páginas, que são: "Sobre Nós", "Serviços" e "Contatos". Complementam a experiência do usuário, prestam informações adicionais sobre a marca, seus produtos, preços e como estar em contato, pelo formulário.
