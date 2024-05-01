@@ -8,7 +8,7 @@ Dentro da implementação técnica, foram empregadas linguagens como de marcaç�
 
 ### Video 💻
 
-Você pode ver uma demosnstração do jogo:
+Você pode ver uma demosnstração da funcionalidades do website:
 
 - [Video](https://github.com/leticiaveigacs/magnolia_website/issues/1#issue-2273958092)
 
