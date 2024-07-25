@@ -1,28 +1,27 @@
+# Magnolia Florist Project 🌸
 
-# Projeto Floricultura Magnólia 🌸
+The central objective of this project was the development of a commercial website, aiming to offer customers a comprehensive and intuitive online experience for purchasing flowers and related activities. 
 
-O projeto teve como objetivo central o desenvolvimento de um website comercial, visando oferecer aos clientes uma experiência online completa e intuitiva para a compra de flores e atividades correlatas.
-Dentro da implementação técnica, foram empregadas linguagens como de marcação (HTML), de estilização (CSS). Com o intuito de criar uma interface amigável e responsiva.
+In the technical implementation, markup languages (HTML) and styling languages (CSS) were employed to create a user-friendly and responsive interface.
+
+- [Click](https://leticiaveigacs.github.io/magnolia_website/)
 
 
+## UML Diagram 📊
+
+A UML diagram was implemented to represent the case study of the website. This proved to be essential as the tool enabled structured and detailed mapping of the system. It highlighted the involved actors, including customers and the florist itself, by defining essential functionalities such as event requests, flower orders, and payments, and consolidating the relationships between these elements.
+
+## Structure 💻
+
+The main page of the website showcases a list of flowers with detailed photos and descriptions. It provides relevant information about the services offered by the florist. 
+There are three sub-pages: "About Us," "Services," and "Contacts." These enhance the user experience by providing additional information about the brand, its products, pricing, and contact methods via a form.
 
 ### Video 💻
 
-Você pode ver uma demosnstração da funcionalidades do website:
+You can watch a demonstration of the website's functionalities:
 
 - [Video](https://github.com/leticiaveigacs/magnolia_website/issues/1#issue-2273958092)
 
+## Conclusion 🌟
 
-## Diagrama UML 📊
-
-Foi implementado o diagrama UML para representar o estudo de caso do website. O que demonstrou ser essencial, pois a ferramenta possibilitou o mapeamento de modo estruturado e pormenorizado do sistema. Além de destacar os atores envolvidos, os clientes e a própria floricultura, ao definir as funcionalidades indispensáveis, como solicitação de eventos, pedidos de flores e pagamentos. E, consolidar entre esses elementos os relacionamentos.
-
-## Estrutura 💻
-
-A página principal do website, mostra uma lista de flores com fotos e descrições detalhadas. Disponibiliza, acerca dos serviços providos pela floricultura, informações relevantes. 
-Possui três sub-páginas, que são: "Sobre Nós", "Serviços" e "Contatos". Complementam a experiência do usuário, prestam informações adicionais sobre a marca, seus produtos, preços e como estar em contato, pelo formulário.
-
-
-## Conclusão 🌟
-
-Em síntese, por meio da incorporação de diferentes tecnologias relevantes e de uma abordagem centrada no cliente, foi implementado um ambiente online que corresponde às aspirações dos usuários. O qual, espelha principalmente os valores e a identidade da marca. Deste modo, o projeto foi finalizado com sucesso, completando todos os requisitos, inerentes ao projeto. E, proporcionando uma plataforma digital robusta e funcional, para a Floricultura Magnólia.
+In summary, through the incorporation of various relevant technologies and a customer-centred approach, an online environment was implemented that meets users' aspirations. This reflects the brand's values and identity. Hence, the project was successfully completed, meeting all inherent requirements. It provides a robust and functional digital platform for Magnolia Florist.
