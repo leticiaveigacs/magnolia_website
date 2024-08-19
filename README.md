@@ -24,4 +24,4 @@ You can watch a demonstration of the website's functionalities:
 
 ## Conclusion 🌟
 
-In summary, through the incorporation of various relevant technologies and a customer-centred approach, an online environment was implemented that meets users' aspirations. This reflects the brand's values and identity. Hence, the project was successfully completed, meeting all inherent requirements. It provides a robust and functional digital platform for Magnolia Florist.
+In summary, through the incorporation of various relevant technologies and a customer-centred approach, an online environment was implemented that meets users' aspirations. This reflects the brand's values and identity. Hence, the project was successfully completed, meeting all inherent requirements. 
